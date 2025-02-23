@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/anugrahrk/salary_predictor.git
-   cd your-repo-name
+   cd salary_predictor
 2. **Install Dependencies**:
 Ensure you have Python installed (preferably 3.8+). Then, install the required packages:
     ```bash
@@ -62,7 +62,7 @@ The dataset is preprocessed to handle missing values and categorical variables b
 ## Project Structure
 
 ```bash
-  salary_predicto/
+  salary_predictor/
 ├── app.py              # Main Streamlit app file
 ├── survey_results_public_2020.csv     #  Dataset 
 ├── saved_steps.pkl     # Trained Decision Tree Regressor model
