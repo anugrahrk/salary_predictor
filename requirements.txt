@@ -3,7 +3,6 @@ python
 streamlit
 pandas
 numpy
-scikit-learn
 pickle
 sklearn
 matplotlib
