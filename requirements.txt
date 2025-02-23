@@ -2,6 +2,4 @@ streamlit
 pandas
 numpy
 pickle5
-sklearn
 scikit-learn
-matplotlib
